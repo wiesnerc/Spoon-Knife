@@ -1,6 +1,6 @@
 ### Well hello there!
 
-This is wiesnerc/Spoon-Knife repository...another update...again
+This is wiesnerc/Spoon-Knife repository...another update...again, and once again.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
